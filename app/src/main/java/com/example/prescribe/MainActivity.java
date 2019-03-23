@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     private CardView newpres,viewpres,settingspres,creditpres,exitpres;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        /*rafid git start*/
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         newpres=findViewById(R.id.newbtndId);
